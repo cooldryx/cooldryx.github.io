@@ -9,7 +9,7 @@ title: About
 
 *Always curious. Always trying to learn more.*
 
-## Tool
+## Design
 
 This blog is built on __Hyde__, an amazing __Jekyll__ theme.
 Learn more and contribute on [GitHub](https://github.com/poole/hyde).
